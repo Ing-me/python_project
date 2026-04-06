@@ -2,7 +2,7 @@
 # And different methods are being used to manipulate the list.
 # Then the length of the list depends on how many scores the professor insert into the list
 print("#" * 40)
-print(" " * 5, "Welcome to the advanced list 1" )
+print(" " * 5, "Welcome to the modified advanced list " )
 print("#" * 40, "\n")
 
 number_scores = int(input("How many scores do you want to store: "))
